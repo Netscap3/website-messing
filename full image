@@ -1,0 +1,13 @@
+Array.prototype.slice.call(
+  document.querySelectorAll('img')).map(function(tag){
+    tag.src = 'http://bit.ly/2okYTfn';
+});
+
+  ************** STEPS **************
+  
+  1.) open inspect element
+  2.) got to console
+  3.) paste code
+  
+  
+  
